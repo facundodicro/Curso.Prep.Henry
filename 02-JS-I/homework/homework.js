@@ -5,12 +5,12 @@ const nuevaString = "facundo";
 
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = 1
+const nuevoNum = 23
 ;
 
 
 // Crea una variable booleana:
-const nuevoBool = null;
+const nuevoBool = null;gi
 
 // Resuelve el siguiente problema matemático:
 const nuevaResta = 10 - null === 5;
@@ -88,8 +88,9 @@ function mayorQueCincuenta(num) {
 }
 
 function obtenerResto(x, y) {
-  // Obten el resto de la división de "x" entre "y"
-  // Tu código:
+  // return x - y;}
+  Obten el resto de la división de "x" entre "y"
+  // obtenerResto (x - y)Tu código:
   
 }
 
