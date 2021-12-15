@@ -1,0 +1,6 @@
+definiciones:
+Variables: las variables son una manera almacenar un valor para recuperarlo mas tarde y usarlo, dicho valor se asigna usando el sino =.Existen tres formas de variables Var,Let y Const
+Strings:son hilos de carateres ,letras definidas entre comillas.
+Funciones:siven para calcular las variables , comienza con la palabra Function despues sigue el nombre de la funcion (describe lo que hace) y luego un parentesis abierto y otro cercano.luego se abre y cierra los corchetes dentro de los cuales ira el codigo a ejecutar que se llama Argumento o argumentos separados por comas, fuera de la funcions e coloca retur que devuelve lo especificado por la funcion y se detiene.
+Declaraciones "if": se llama operador de control de flujo y comparacion y sirve para agregar logica a la funcion y pueda verificar si algo es true o false.
+Booleanos: se usan para verificar si algo es verdadero o falso son los dos unicos valores que tiene
