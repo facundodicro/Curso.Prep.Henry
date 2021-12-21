@@ -1,0 +1,38 @@
+body h1{
+    color: blue;
+    float: 100px; 
+    margin: 100px;
+
+}
+body h2{
+    color: burlywood;
+    font-variant-ligatures: normal;
+    margin: 50px;
+}
+
+
+
+
+
+body ol{
+    font-family: 'Times New Roman', Times, serif;
+    color: cornflowerblue;
+    margin: 10px;
+
+} 
+img ol{
+    width: 100px;
+    height:200px;
+  
+}  
+  
+
+
+
+
+body p{
+    color: darkblue;
+    font-family: cursive;
+    float: left;
+    margin: 100px;
+}
